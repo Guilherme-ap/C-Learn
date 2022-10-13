@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1665367720 source:c:\workspace\ed2\projeto\projeto.ordenacao\bubblesort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665368327 c:\workspace\ed2\projeto\projeto.ordenacao\codigos.h
+
+1665367757 source:c:\workspace\ed2\projeto\projeto.ordenacao\coutingsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665367793 source:c:\workspace\ed2\projeto\projeto.ordenacao\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665367841 source:c:\workspace\ed2\projeto\projeto.ordenacao\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665367866 source:c:\workspace\ed2\projeto\projeto.ordenacao\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1665368284 c:\workspace\ed2\projeto\projeto.ordenacao\menu.h
+
+1665367896 source:c:\workspace\ed2\projeto\projeto.ordenacao\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665367929 source:c:\workspace\ed2\projeto\projeto.ordenacao\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665367959 source:c:\workspace\ed2\projeto\projeto.ordenacao\radixsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665368002 source:c:\workspace\ed2\projeto\projeto.ordenacao\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665368040 source:c:\workspace\ed2\projeto\projeto.ordenacao\shellsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665368079 source:c:\workspace\ed2\projeto\projeto.ordenacao\timsort.c
+	<stdio.h>
+	<stdlib.h>
+	"codigos.h"
+
+1665368212 source:c:\workspace\ed2\projeto\projeto.ordenacao\vetores.c
+	<stdio.h>
+	<stdlib.h>
+	"Vetores.h"
+
+1665368257 c:\workspace\ed2\projeto\projeto.ordenacao\vetores.h
+
+1665371488 source:c:\workspace\ed2\projeto\projeto.ordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"codigos.h"
+	"Menu.h"
+	"vetores.h"
+
